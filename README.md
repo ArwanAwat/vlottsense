@@ -168,8 +168,7 @@ The signed APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
 ## 🔗 Links
 
-- **GitHub Repository:** [https://github.com/yourusername/electricity-bill-app](https://github.com/yourusername/electricity-bill-app)
-
+- **GitHub Repository:** [https://github.com/ArwanAwat/vlottsense]
 
 ---
 

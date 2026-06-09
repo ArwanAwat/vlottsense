@@ -85,7 +85,7 @@ class AboutScreen extends StatelessWidget {
               label: const Text('Visit App GitHub Page'),
               onPressed: () => _launchUrl(
                 context,
-                'https://github.com/ArwanAwat', 
+                'https://github.com/ArwanAwat/vlottsense', 
               ),
             ),
           ],
